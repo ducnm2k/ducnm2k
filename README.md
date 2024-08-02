@@ -3,11 +3,42 @@
 <h1 align="center">Hi 👋, I'm Duc Nguyen</h1>
 <h3 align="center">A Frontend Developer from Vietnam</h3>
 
-- 💬 Ask me about **React, Flutter**
+Welcome to my GitHub profile! I'm a passionate and driven software engineer with a focus on web development. I love creating intuitive and efficient applications that make a difference. Here you'll find some of the projects I've worked on, showcasing my skills and expertise.
 
-- 📫 How to reach me **ducnm2k@gmail.com**
+## 🚀 About Me
+- 🎓 Freshly graduated with a degree in Software Engineering from FPT University.
+- 💻 Specializing in web and mobile development, including API handling.
+- 🌱 Currently working on developing a blog website for a financial content creator.
+- 💬 Ask me about web development, ReactJS, Node.js, and more!
 
-<h3 align="left">Connect with me:</h3>
+## 🛠️ Skills
+- **Languages:** JavaScript, HTML, CSS
+- **Frontend:** ReactJS, Redux
+- **Backend:** Node.js, Express
+- **Databases:** MongoDB, SQL
+- **Tools:** Git, GitHub, VS Code, Docker
+- **Other:** SEO Optimization, Performance Optimization, API Integration
+
+## 📚 Projects
+### 🎓 Graduation Project: Tutor Center System
+As the web developer and team leader, I designed and developed a user-friendly system for a tutor center. The platform connects tutors with parents and students, featuring:
+- Student and tutor registration and management
+- Booking of tutoring sessions
+- Secure payment processing
+[Read More](https://docs.google.com/document/d/11Sjk6zwOwtKvfyK8Fu_nFouQ5X_jTxKSjdcsjt4lU_o/edit?usp=sharing)
+
+### 🩺 ALS Information and Records App
+Worked as a web developer on a class project to create an app for ALS information. My role included:
+- Optimizing the user interface
+- Fixing bugs
+- Adding features like a donation system and live Q&A sessions via Meta Messenger
+[View Project](https://alsvietnam.org/)
+
+## 📫 Connect with Me
+- **Email:** ducnm2k@gmail.com
+- **Phone:** +84903317301
+
+
 <p align="left">
 </p>
 
